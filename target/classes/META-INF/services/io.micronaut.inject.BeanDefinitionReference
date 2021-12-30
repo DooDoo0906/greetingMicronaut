@@ -1,0 +1,7 @@
+greeting.$EnglishGreetingService$Definition$Reference
+greeting.$Greeting$Definition$Reference
+greeting.$GreetingClient$Intercepted$Definition$Reference
+greeting.client.$GreetingClient$Intercepted$Definition$Reference
+greeting.server.controller.$GreetController$Definition$Reference
+greeting.server.service.$EnglishGreetingService$Definition$Reference
+greeting.server.service.$SpanishGreetingService$Definition$Reference
